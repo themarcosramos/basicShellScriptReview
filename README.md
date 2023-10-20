@@ -18,6 +18,6 @@ Visando revisar e tirar  alguma dúvidas sobre a linguagem  Shell script , coloq
 
 >  Others : algumas pdf   sobre algumas características  
 
-## Execuções 
+## Sobre  
 
-Todos os script  fora desenvolvido  na distribuição linux  pop  os  22.04 LTS, utilizando o  bash  5.1.16.
+Todos os script  foram desenvolvido  na distribuição linux  pop  os  22.04 LTS, utilizando o  bash  5.1.16.
